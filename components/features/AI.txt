@@ -1,2 +1,6 @@
 Revolution
 Now you can talk with ai ask anythings.
+
+Bug fix
+ammend commit
+shekahr
