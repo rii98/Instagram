@@ -1,0 +1,4 @@
+This is the Home Page.
+Version 1 Simple Features:
+Feature 1: Text messages
+Feature 2: Create new post
