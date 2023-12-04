@@ -2,3 +2,5 @@ This is the Version-1 of messages.
 Feature:
 1. Simple text chat
 2. Can send Images also
+
+I have changes this file from github.com website
